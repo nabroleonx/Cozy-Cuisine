@@ -32,6 +32,9 @@ Let's say you want to cook something with what you have in your fridge, but you 
    GitHub pages were something we were introduced to for the first time.
 
 ## 🤝 Contributions 
+- We created different issues and make PR for the same 
+ ![Screenshot from 2022-10-09 16-17-28](https://user-images.githubusercontent.com/81790585/194752628-9d111765-1b6e-4934-b8b7-709016717f0f.png)
+ ![Screenshot from 2022-10-09 16-17-09](https://user-images.githubusercontent.com/81790585/194752635-7c9be838-a089-412f-93e7-d0a381b27c7e.png)
 
 ## What's next for Cozy Cuisine
 - Scaling to hundreds of thousands of users and UX improvements!
