@@ -31,10 +31,6 @@ Let's say you want to cook something with what you have in your fridge, but you 
 -  We learned many technologies and had experience working on them as well. Such as GitHub and the 
    GitHub pages were something we were introduced to for the first time.
 
-## 💻UI of the project 
-
-
-
 ## 🤝 Contributions 
 
 ## What's next for Cozy Cuisine
