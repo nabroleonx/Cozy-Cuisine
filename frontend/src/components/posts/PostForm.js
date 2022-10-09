@@ -56,7 +56,7 @@ export default function PostForm(props) {
                         name="coverImage"
                         id="coverImage"
                         autoComplete="coverImage"
-                        placeholder="e.g. How can I find the eigenvector for 3x3 matrix?"
+                        placeholder="e.g. the url to your cover image"
                         className="flex-1 border px-3 py-2 focus:outline-none placeholder:text-xs placeholder:font-light focus:ring-sky-500 focus:border-sky-500 block w-full min-w-0 rounded-md sm:text-sm border-gray-300"
                         onChange={(e) => setCoverImage(e.target.value)}
                         defaultValue={
@@ -82,7 +82,7 @@ export default function PostForm(props) {
                         name="title"
                         id="title"
                         autoComplete="title"
-                        placeholder="e.g. How can I find the eigenvector for 3x3 matrix?"
+                        placeholder="e.g. The best apple pie"
                         className="flex-1 border px-3 py-2 focus:outline-none placeholder:text-xs placeholder:font-light focus:ring-sky-500 focus:border-sky-500 block w-full min-w-0 rounded-md sm:text-sm border-gray-300"
                         onChange={(e) => setTitle(e.target.value)}
                         defaultValue={props.editMode ? props.post.title : null}
