@@ -1,3 +1,6 @@
+![Food music geners (1)](https://user-images.githubusercontent.com/81790585/194751827-c666fffe-c890-41e9-badb-ae26a8163e47.gif)
+
+
 ##  💡Inspiration
 Hey 👋, all foodies!!
 Let's say you want to cook something with what you have in your fridge, but you don't know what or how to cook. This is a pervasive problem for most of us. So we propose to save your precious time by providing you with a recommendation of foods you can cook and also by providing you a recipe for it.
