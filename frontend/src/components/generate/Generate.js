@@ -73,15 +73,6 @@ function Generate() {
           <div className="flex">
             <div className="ml-3 flex-1 md:flex md:justify-between">
               <p className="text-sm text-blue-700">{!data ? "Meals" : data}</p>
-              <p className="mt-3 text-sm md:mt-0 md:ml-6">
-                <a
-                  href="https://t.me/teachershack_bot"
-                  className="whitespace-nowrap font-medium text-blue-700 hover:text-blue-600"
-                >
-                  Telegram
-                  <span aria-hidden="true"> &rarr;</span>
-                </a>
-              </p>
             </div>
           </div>
         </div>
